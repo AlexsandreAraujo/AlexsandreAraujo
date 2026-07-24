@@ -8,12 +8,12 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou **Desenvolvedor Full-Stack Sênior** com mais de **13 anos de experiência** no desenvolvimento de software de alta performance[cite: 7]. Especializado na construção hands-on de aplicações resilientes no ecossistema **.NET / C#** no back-end e **Node.js, React e Angular** no front-end[cite: 7].
+Sou **Desenvolvedor Full-Stack Sênior** com mais de **13 anos de experiência** no desenvolvimento de software de alta performance. Especializado na construção hands-on de aplicações resilientes no ecossistema **.NET / C#** no back-end e **Node.js, React e Angular** no front-end.
 
-Focado em criar código limpo, testável e manutenível, aplico diariamente arquitetura **MVC**, **Clean Code** e princípios **SOLID** para entregar soluções escaláveis e otimizar a eficiência de sistemas corporativos[cite: 7].
+Focado em criar código limpo, testável e manutenível, aplico diariamente arquitetura **MVC**, **Clean Code** e princípios **SOLID** para entregar soluções escaláveis e otimizar a eficiência de sistemas corporativos.
 
-- 🛠️ **Stack Principal:** C#, .NET Core, Node.js, React, Angular, SQL Server, PostgreSQL, MongoDB, Redis e Docker[cite: 7].
-- 📐 **Boas Práticas:** Design Patterns, Princípios SOLID, Clean Code e Desenvolvimento de APIs RESTful/SOAP[cite: 7].
+- 🛠️ **Stack Principal:** C#, .NET Core, Node.js, React, Angular, SQL Server, PostgreSQL, MongoDB, Redis e Docker.
+- 📐 **Boas Práticas:** Design Patterns, Princípios SOLID, Clean Code e Desenvolvimento de APIs RESTful/SOAP.
 
 ---
 
@@ -49,36 +49,4 @@ Focado em criar código limpo, testável e manutenível, aplico diariamente arqu
 
 ---
 
-## 💼 Experiência Profissional em Desenvolvimento de Software
-
-### **DN IT Services** — *Desenvolvedor Full-Stack Sênior*
-*(Nov/2020 – Atual)*[cite: 7]
-- Desenvolvimento e otimização hands-on de aplicações de alta performance utilizando **.NET, C# e Node.js** no back-end e **React/Angular** no front-end[cite: 7].
-- Refatoração e evolução de arquiteturas de software aplicando padrões **MVC** e princípios **SOLID**, diminuindo a complexidade técnica e garantindo fácil manutenção do código[cite: 7].
-- Implementação contínua de práticas de **Clean Code** que elevam a qualidade técnica e a velocidade de entrega das funcionalidades[cite: 7].
-
-### **Vicunha Têxtil** — *Desenvolvedor .NET / Software Engineer*
-*(Ago/2011 – Nov/2020)*[cite: 7]
-- Atuação em todo o ciclo de vida de desenvolvimento de software na plataforma **.NET Framework** para usuários finais[cite: 7].
-- Integração de sistemas complexos através da criação e consumo de **APIs REST** e manipulação avançada de dados em bancos relacionais **SQL**[cite: 7].
-- Resolução de problemas e troubleshooting de sistemas em nível avançado, garantindo a estabilidade operacional das aplicações de negócio[cite: 7].
-
----
-
-## 🎓 Idiomas
-
-- 🌐 **Inglês:** Intermediário[cite: 7]
-- 🌐 **Espanhol:** Intermediário[cite: 7]
-
----
-
-## 📊 Estatísticas no GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexsandreAraujo&show_icons=true&theme=radial&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexsandreAraujo&layout=compact&theme=radial" width="48%" />
-</p>
-
----
-
-📫 **Contato:** Conecte-se comigo via [LinkedIn](https://www.linkedin.com/in/alexsandrearaujo) ou mande um e-mail para [alexsandre.lima.araujo@outlook.com](mailto:alexsandre.lima.araujo@outlook.com)![cite: 7]
+📫 **Contato:** Conecte-se comigo via [LinkedIn](https://www.linkedin.com/in/alexsandrearaujo) ou mande um e-mail para [alexsandre.lima.araujo@outlook.com](mailto:alexsandre.lima.araujo@outlook.com)!
