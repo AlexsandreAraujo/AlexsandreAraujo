@@ -12,9 +12,6 @@ Sou **Desenvolvedor Full-Stack Sênior** com mais de **13 anos de experiência**
 
 Focado em criar código limpo, testável e manutenível, aplico diariamente arquitetura **MVC**, **Clean Code** e princípios **SOLID** para entregar soluções escaláveis e otimizar a eficiência de sistemas corporativos.
 
-- 🛠️ **Stack Principal:** C#, .NET Core, Node.js, React, Angular, SQL Server, PostgreSQL, MongoDB, Redis e Docker.
-- 📐 **Boas Práticas:** Design Patterns, Princípios SOLID, Clean Code e Desenvolvimento de APIs RESTful/SOAP.
-
 ---
 
 ## 🛠️ Tech Stack & Competências Técnicas
@@ -49,4 +46,7 @@ Focado em criar código limpo, testável e manutenível, aplico diariamente arqu
 
 ---
 
-📫 **Contato:** Conecte-se comigo via [LinkedIn](https://www.linkedin.com/in/alexsandrearaujo) ou mande um e-mail para [alexsandre.lima.araujo@outlook.com](mailto:alexsandre.lima.araujo@outlook.com)!
+## 📫 Contato
+
+- 💼 **LinkedIn:** [linkedin.com/in/alexsandrearaujo](https://www.linkedin.com/in/alexsandrearaujo)
+- ✉️ **Email:** [alexsandre.lima.araujo@outlook.com](mailto:alexsandre.lima.araujo@outlook.com)
