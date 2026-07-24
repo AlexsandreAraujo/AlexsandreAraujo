@@ -1,16 +1,84 @@
-## Hi there 👋
+# 🚀 Alexsandre Lima de Araujo — Senior Full-Stack Developer
 
-<!--
-**AlexsandreAraujo/AlexsandreAraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsandrearaujo)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexsandre.lima.araujo@outlook.com)
+[![Location](https://img.shields.io/badge/Osasco--SP-100000?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Sobre Mim
+
+Sou **Desenvolvedor Full-Stack Sênior** com mais de **13 anos de experiência** no desenvolvimento de software de alta performance[cite: 7]. Especializado na construção hands-on de aplicações resilientes no ecossistema **.NET / C#** no back-end e **Node.js, React e Angular** no front-end[cite: 7].
+
+Focado em criar código limpo, testável e manutenível, aplico diariamente arquitetura **MVC**, **Clean Code** e princípios **SOLID** para entregar soluções escaláveis e otimizar a eficiência de sistemas corporativos[cite: 7].
+
+- 🛠️ **Stack Principal:** C#, .NET Core, Node.js, React, Angular, SQL Server, PostgreSQL, MongoDB, Redis e Docker[cite: 7].
+- 📐 **Boas Práticas:** Design Patterns, Princípios SOLID, Clean Code e Desenvolvimento de APIs RESTful/SOAP[cite: 7].
+
+---
+
+## 🛠️ Tech Stack & Competências Técnicas
+
+### **Back-end & APIs**
+![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST/SOAP](https://img.shields.io/badge/APIs-REST%20%2F%20SOAP-008080?style=for-the-badge)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge)
+
+### **Front-end & Web**
+![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5/CSS3](https://img.shields.io/badge/HTML5%2FCSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### **Bancos de Dados (SQL & NoSQL)**
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### **DevOps & Ferramentas**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![TFS](https://img.shields.io/badge/TFS-0078D4?style=for-the-badge)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+---
+
+## 💼 Experiência Profissional em Desenvolvimento de Software
+
+### **DN IT Services** — *Desenvolvedor Full-Stack Sênior*
+*(Nov/2020 – Atual)*[cite: 7]
+- Desenvolvimento e otimização hands-on de aplicações de alta performance utilizando **.NET, C# e Node.js** no back-end e **React/Angular** no front-end[cite: 7].
+- Refatoração e evolução de arquiteturas de software aplicando padrões **MVC** e princípios **SOLID**, diminuindo a complexidade técnica e garantindo fácil manutenção do código[cite: 7].
+- Implementação contínua de práticas de **Clean Code** que elevam a qualidade técnica e a velocidade de entrega das funcionalidades[cite: 7].
+
+### **Vicunha Têxtil** — *Desenvolvedor .NET / Software Engineer*
+*(Ago/2011 – Nov/2020)*[cite: 7]
+- Atuação em todo o ciclo de vida de desenvolvimento de software na plataforma **.NET Framework** para usuários finais[cite: 7].
+- Integração de sistemas complexos através da criação e consumo de **APIs REST** e manipulação avançada de dados em bancos relacionais **SQL**[cite: 7].
+- Resolução de problemas e troubleshooting de sistemas em nível avançado, garantindo a estabilidade operacional das aplicações de negócio[cite: 7].
+
+---
+
+## 🎓 Idiomas
+
+- 🌐 **Inglês:** Intermediário[cite: 7]
+- 🌐 **Espanhol:** Intermediário[cite: 7]
+
+---
+
+## 📊 Estatísticas no GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexsandreAraujo&show_icons=true&theme=radial&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexsandreAraujo&layout=compact&theme=radial" width="48%" />
+</p>
+
+---
+
+📫 **Contato:** Conecte-se comigo via [LinkedIn](https://www.linkedin.com/in/alexsandrearaujo) ou mande um e-mail para [alexsandre.lima.araujo@outlook.com](mailto:alexsandre.lima.araujo@outlook.com)![cite: 7]
