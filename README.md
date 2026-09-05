@@ -1,4 +1,4 @@
-# 🚀 Alexsandre Lima de Araujo — Senior Full-Stack Developer
+# 🚀 Alexsandre Lima de Araujo — Sênior Full-Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsandrearaujo)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexsandre.lima.araujo@outlook.com)
@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou **Desenvolvedor Full-Stack Sênior** com mais de **13 anos de experiência** no desenvolvimento de software de alta performance. Especializado na construção hands-on de aplicações resilientes no ecossistema **.NET / C#** e **Node.js** no back-end, com **Python** para automação e scripting, e **React / Angular** no front-end.
+Sou **Desenvolvedor Full-Stack Sênior** com mais de **13 anos de experiência** no desenvolvimento de software de alta performance. Especializado na construção hands-on de aplicações resilientes utilizando **.NET / C#**, **Node.js** e **Python** no back-end, e **React / Angular** no front-end.
 
 Focado em criar código limpo, testável e manutenível, aplico diariamente arquitetura **MVC**, **Clean Code** e princípios **SOLID** para entregar soluções escaláveis e otimizar a eficiência de sistemas corporativos.
 
