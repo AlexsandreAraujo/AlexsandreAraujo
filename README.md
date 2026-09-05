@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou **Desenvolvedor Full-Stack Sênior** com mais de **13 anos de experiência** no desenvolvimento de software de alta performance. Especializado na construção hands-on de aplicações resilientes no ecossistema **.NET / C#** no back-end e **Node.js, React e Angular** no front-end.
+Sou **Desenvolvedor Full-Stack Sênior** com mais de **13 anos de experiência** no desenvolvimento de software de alta performance. Especializado na construção hands-on de aplicações resilientes no ecossistema **.NET / C#** e **Node.js** no back-end, com **Python** para automação e scripting, e **React / Angular** no front-end.
 
 Focado em criar código limpo, testável e manutenível, aplico diariamente arquitetura **MVC**, **Clean Code** e princípios **SOLID** para entregar soluções escaláveis e otimizar a eficiência de sistemas corporativos.
 
@@ -20,6 +20,7 @@ Focado em criar código limpo, testável e manutenível, aplico diariamente arqu
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![REST/SOAP](https://img.shields.io/badge/APIs-REST%20%2F%20SOAP-008080?style=for-the-badge)
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge)
 
